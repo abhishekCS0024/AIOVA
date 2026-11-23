@@ -1,0 +1,32 @@
+# Env
+.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# Node
+node_modules/
+dist/
+
+# Monolith build output (vite → FastAPI static dir)
+backend/app/static/*
+!backend/app/static/.gitkeep
+
+# Uploaded documents
+backend/storage/uploads/*
+!backend/storage/uploads/.gitkeep
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# TypeScript incremental build info
+*.tsbuildinfo
