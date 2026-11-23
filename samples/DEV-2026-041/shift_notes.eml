@@ -1,0 +1,15 @@
+From: Night Shift Operator <night.shift@demo-plant.example>
+To: Production Supervisor <supervisor@demo-plant.example>
+Subject: R-201 night shift notes - API-B-2307
+Date: Mon, 02 Nov 2026 06:10:00 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Hi,
+
+Around 02:40 the high temperature alarm on R-201 sounded once during
+crystallization. I checked the DCS screen and TT-101 was showing about 77 C,
+which is normal, so I acknowledged the alarm and did not escalate.
+Cooling seemed slow to respond again, same as last week.
+
+Regards,
+Night shift operator

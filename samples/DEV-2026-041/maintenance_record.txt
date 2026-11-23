@@ -1,0 +1,7 @@
+MAINTENANCE RECORD — DEMO DATA
+Asset: Cooling valve CV-12 (R-201 jacket cooling)
+Preventive maintenance frequency: every 6 months
+Last service: 15-Apr-2026
+Next service due: 12-Oct-2026
+Status on 02-Nov-2026: OVERDUE (3 weeks). Work order WO-88213 open, not scheduled.
+Remarks: Valve response reported as "sluggish" in operator round sheet of 28-Oct-2026.

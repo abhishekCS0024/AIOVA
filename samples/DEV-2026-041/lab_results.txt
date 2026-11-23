@@ -1,0 +1,8 @@
+QC LABORATORY RESULTS — DEMO DATA
+Batch: API-B-2307
+Assay (HPLC): 97.2 %   Specification: >= 99.0 %   Result: FAIL (OOS)
+Impurity A: 0.42 %     Specification: <= 0.15 %   Result: FAIL
+Impurity B: 0.08 %     Specification: <= 0.10 %   Result: PASS
+Total impurities: 0.71 % (historical batch average 0.18 %)
+Analyst comment: Impurity A profile consistent with thermal degradation.
+Phase I laboratory investigation: no analytical error identified.

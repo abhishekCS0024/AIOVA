@@ -1,0 +1,7 @@
+PAST DEVIATION SUMMARY — DEMO DATA
+Deviation No.: DEV-2026-012 (closed)
+Date: 06-May-2026
+Event: Reactor R-201 temperature excursion to 83 °C for ~10 minutes during
+crystallization of Batch API-B-2211. Assay within specification (99.1 %).
+Root cause recorded: "Operator response delay" (human error).
+CAPA: Operator retraining. No equipment actions raised.
